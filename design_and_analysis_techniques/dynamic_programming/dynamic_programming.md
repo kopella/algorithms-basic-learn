@@ -1,3 +1,5 @@
+#! https://zhuanlan.zhihu.com/p/604008275
+
 # 动态规划（Dynamic Programming）学习笔记
 
 ## 概述
@@ -144,3 +146,5 @@
 4. 利用计算出的信息构造一个最优解。
 
     现在得到了问题的最优解的值，但如果要确切地知道是那些商品被装进了背包中，还需要一个额外的数组记录运算中产生的信息。
+
+- [范例完整代码](https://github.com/kopella/algorithms-basic-learn/blob/main/design_and_analysis_techniques/dynamic_programming/dynamic_programming.cc)
